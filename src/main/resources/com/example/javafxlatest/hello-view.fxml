@@ -1,0 +1,29 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+
+<!--<?import javafx.geometry.Insets?>-->
+<!--<?import javafx.scene.control.Label?>-->
+<!--<?import javafx.scene.layout.VBox?>-->
+
+<!--<?import javafx.scene.control.Button?>-->
+<!--<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"-->
+<!--      fx:controller="com.example.javafxlatest.HelloController">-->
+<!--    <padding>-->
+<!--        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>-->
+<!--    </padding>-->
+
+<!--    <Label fx:id="welcomeText"/>-->
+<!--    <Button text="Hello!" onAction="#onHelloButtonClick"/>-->
+<!--    <children>-->
+<!--&lt;!&ndash;    <Button fx:id="resetBtn" layoutX="230.0" layoutY="350.0" mnemonicParsing="false" onAction="#resetMedia" text="RESET" />&ndash;&gt;-->
+<!--    <Button fx:id="pauseBtn" layoutX="70.0" layoutY="350.0" mnemonicParsing="false" onAction="#pauseMedia" text="PAUSE" />-->
+<!--</VBox>-->
+
+
+<!--&lt;!&ndash;<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.videodemojavafx.controllers.Controller">&ndash;&gt;-->
+<!--&lt;!&ndash;<children>&ndash;&gt;-->
+<!--&lt;!&ndash;    <Button fx:id="resetBtn" layoutX="230.0" layoutY="350.0" mnemonicParsing="false" onAction="#resetMedia" text="RESET" />&ndash;&gt;-->
+<!--&lt;!&ndash;    <Button fx:id="pauseBtn" layoutX="70.0" layoutY="350.0" mnemonicParsing="false" onAction="#pauseMedia" text="PAUSE" />&ndash;&gt;-->
+<!--&lt;!&ndash;    <MediaView fx:id="mediaView" fitHeight="350.0" fitWidth="600.0" />&ndash;&gt;-->
+<!--&lt;!&ndash;    <Button fx:id="playBtn" layoutX="150.0" layoutY="350.0" mnemonicParsing="false" onAction="#playMedia" text="PLAY" />&ndash;&gt;-->
+<!--&lt;!&ndash;</children>&ndash;&gt;-->
+<!--&lt;!&ndash;</AnchorPane>&ndash;&gt;-->
